@@ -1,0 +1,19 @@
+Test Gumtree 
+
+How to running the Automation,
+
+1. Tools using intelliJ Idea
+2. Open intellij Idea and open folder the name is "GumtreeTest"
+3. On project folder click Drop icon GumtreeTest and Click page "src"
+4. Click page "Test"
+5. Click page "java"
+6. Click page "Test"
+7. Click file "GumtreeSearchTest"
+8. Click Drop option on the top, There is testNG with the name = 
+   "GumtreeSearchTest / Test.gumtreeSearchTest", Just click (Both is fine!)
+9. Click icon "PLAY"
+10. Test Automation is Running
+
+*Happy Testing!!
+Best Regards,
+Rian Widhistira
